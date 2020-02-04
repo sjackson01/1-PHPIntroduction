@@ -4,8 +4,13 @@
     <meta charset="utf-8">
     <title>Predefined Variables</title>
 </head>
+<header>
+    <a href="constants.php">Constants</a>
+</header>
 <body>
     <?php
+
+
 
         // Create shorthand verions of the variable names 
         $file = $_SERVER['SCRIPT_FILENAME'];
